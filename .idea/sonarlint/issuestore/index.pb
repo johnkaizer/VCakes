@@ -24,5 +24,3 @@ x
 Happ/src/androidTest/java/com/project/vcakes/ExampleInstrumentedTest.java,a\8\a8bfe086646fbdcc9b7c2882fb37075197585526
 i
 9app/src/test/java/com/project/vcakes/ExampleUnitTest.java,5\0\50ce43c54d41ff75d068284d1092c83561e18362
-f
-6app/src/main/java/com/project/vcakes/MainActivity.java,e\b\eb6e7f051a739f0cd14877fd3771102e0befcb5a

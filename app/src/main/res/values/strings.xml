@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">VCakes</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="login">Login</string>
+    <string name="singin">Signin</string>
+    <string name="already_registered">Already registered?</string>
+    <string name="register">Register</string>
 </resources>

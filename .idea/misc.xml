@@ -3,10 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/kayza/AndroidStudioProjects/VCakes/app/src/main/res/drawable/btn_signin_back.xml" value="0.127" />
+        <entry key="..\:/Users/kayza/AndroidStudioProjects/VCakes/app/src/main/res/drawable/circle.xml" value="0.127" />
         <entry key="..\:/Users/kayza/AndroidStudioProjects/VCakes/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/kayza/AndroidStudioProjects/VCakes/app/src/main/res/layout/activity_sign_in.xml" value="0.1" />
         <entry key="..\:/Users/kayza/AndroidStudioProjects/VCakes/app/src/main/res/layout/activity_sign_up.xml" value="0.1" />
-        <entry key="..\:/Users/kayza/AndroidStudioProjects/VCakes/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
+        <entry key="..\:/Users/kayza/AndroidStudioProjects/VCakes/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
       </map>
     </option>
   </component>
