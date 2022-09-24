@@ -10,10 +10,10 @@
     android:background="@color/teal_700">
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="100dp"
-        android:layout_height="100dp"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
         android:background="@drawable/circle"
-        android:src="@drawable/cake"
+        android:src="@drawable/cakes"
         android:scaleType="centerCrop"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

@@ -24,3 +24,7 @@ x
 Happ/src/androidTest/java/com/project/vcakes/ExampleInstrumentedTest.java,a\8\a8bfe086646fbdcc9b7c2882fb37075197585526
 i
 9app/src/test/java/com/project/vcakes/ExampleUnitTest.java,5\0\50ce43c54d41ff75d068284d1092c83561e18362
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+q
+Aapp/src/main/java/com/project/vcakes/Activities/SplashScreen.java,5\c\5c510aefc839a7ef8a80711bc599b05b5fe384e0
